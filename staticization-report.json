@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "project": "project-13086231",
+  "generated_at": "2026-08-20 13:23:10",
+  "chrome": "E:\\playwright-browsers\\chromium-1187\\chrome-win\\chrome.exe",
+  "routes": [
+    "/"
+  ],
+  "route_count": 1,
+  "missing_assets": []
+}
